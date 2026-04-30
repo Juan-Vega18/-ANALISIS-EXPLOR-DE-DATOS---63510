@@ -1,0 +1,476 @@
+id_paciente,fecha_prescripcion,medicamento,dosis_mg,via_administracion,diagnostico_cie10,peso_paciente_kg,edad,eps,prescriptor_id,year,week,month,grupo_etario
+4169,2024-11-12,metformina,850.0,subcutanea,hipertension,81.55819564115436,31.0,sura,med-2570,2024,1,11,adulto
+2830,2024-05-07,asa,1000.0,oral,nan,69.0834487739172,79.0,sanitas,med-3551,2024,1,5,adulto mayor
+6220,2024-12-26,metformina,850.0,oral,hipertension,76.91553352713312,51.0,compensar,med-4311,2024,3,12,adulto
+3829,2023-08-23,ibuprofeno,250.0,oral,diabetes tipo 2,73.19333683995711,46.0,sanitas,med-2276,2023,2,8,adulto
+1695,2025-06-16,metformina 500,1000.0,oral,diabetes tipo 2,62.94644296384783,50.27991886409736,sanitas,med-6989,2025,0,6,adulto
+1077,2025-11-18,metformina,250.0,oral,nan,74.30649260145567,27.0,compensar,med-1814,2025,1,11,adulto
+6210,2023-11-21,enalapril,250.0,oral,hipertension,84.00772820230236,58.0,sura,med-0262,2023,1,11,adulto
+1901,2024-03-28,ibuprofeno,250.0,intravenosa,neumonia,70.51357212853168,76.0,sanitas,med-6723,2024,3,3,adulto mayor
+5493,2025-01-30,metformina,400.0,oral,diabetes tipo 2,56.85116965829866,70.0,compensar,med-6641,2025,3,1,adulto mayor
+6294,2024-01-21,asa,200.0,subcutanea,hipertension,84.77022308395568,72.0,sanitas,med-1512,2024,6,1,adulto mayor
+3250,2023-12-21,ibuprofeno,500.0,intravenosa,nan,70.71460352724525,57.0,sura,med-2652,2023,3,12,adulto
+8222,2025-08-14,amoxicilina,850.0,oral,nan,49.45391272507183,70.0,nueva eps,med-2687,2025,3,8,adulto mayor
+2366,2025-11-07,aspirina,100.0,intravenosa,diabetes tipo 2,72.72071436663269,51.0,sura,med-2950,2025,4,11,adulto
+2915,2024-09-06,metformina,850.0,intravenosa,neumonia,66.24236327204495,24.0,sura,med-7764,2024,4,9,adulto
+1793,2024-01-31,enalapril,100.0,oral,hipertension,37.78867752920114,72.0,nueva eps,med-4164,2024,2,1,adulto mayor
+8642,2024-01-03,amoxicilina,400.0,intravenosa,hipertension,68.43575605496167,20.0,sura,med-5878,2024,2,1,adulto
+5556,2026-02-12,metformina,250.0,subcutanea,nan,81.03952560330555,79.0,sanitas,med-5772,2026,3,2,adulto mayor
+1871,2025-10-09,enalapril,200.0,oral,diabetes tipo 2,58.11430596534153,26.0,nueva eps,med-6417,2025,3,10,adulto
+5399,2024-10-30,amoxicilina,850.0,subcutanea,diabetes tipo 2,51.260384575904666,76.0,compensar,med-5915,2024,2,10,adulto mayor
+9436,2023-08-06,metformina,100.0,subcutanea,consulta general,73.37061023861789,39.0,compensar,med-3257,2023,6,8,adulto
+6466,2023-04-29,asa,1000.0,oral,consulta general,74.40882382590647,31.0,compensar,nan,2023,5,4,adulto
+5002,2024-07-03,amoxicilina,200.0,oral,infeccion respiratoria aguda,82.2190464913013,23.0,sanitas,med-8667,2024,2,7,adulto
+9378,2025-07-04,enalapril,1000.0,oral,gastritis cronica,63.38330006733575,70.0,compensar,med-0161,2025,4,7,adulto mayor
+7385,2025-10-28,amoxicilina,400.0,intravenosa,gastritis cronica,76.74040548651573,45.0,nueva eps,med-9646,2025,1,10,adulto
+9136,2025-03-03,metformina,400.0,intravenosa,diabetes tipo 2,3.0,50.0,sura,med-4565,2025,0,3,adulto
+6238,2023-05-08,enalapril,850.0,oral,nan,54.557306098675376,54.0,compensar,med-3982,2023,0,5,adulto
+4542,2024-02-17,amoxicilina,250.0,oral,gastritis cronica,69.45974811634099,47.0,nueva eps,med-8371,2024,5,2,adulto
+2669,2023-05-08,metformina 500,850.0,subcutanea,nan,59.1734792733976,31.0,sura,med-2134,2023,0,5,adulto
+7895,2024-02-01,metformina,100.0,intravenosa,neumonia,90.72865841247074,57.0,sanitas,med-6652,2024,3,2,adulto
+6745,2024-01-22,enalapril,400.0,intravenosa,neumonia,69.92145992469794,40.0,sura,med-5506,2024,0,1,adulto
+1474,2025-09-17,enalapril,100.0,oral,nan,55.210261017206406,84.0,nueva eps,med-2971,2025,2,9,adulto mayor
+2842,2025-06-10,ibuprofeno,1000.0,intravenosa,hipertension,88.38378677239905,47.0,sanitas,med-0011,2025,1,6,adulto
+9173,2025-11-17,amoxicilina,200.0,oral,diabetes tipo 2,90.73439066147604,62.0,nueva eps,med-9503,2025,0,11,adulto
+7983,2024-01-23,aspirina,400.0,intravenosa,consulta general,67.26009979219072,50.27991886409736,sura,med-7990,2024,1,1,adulto
+2015,2026-02-10,aspirina,500.0,intravenosa,diabetes tipo 2,72.75236463660842,19.0,sanitas,med-7139,2026,1,2,adulto
+2154,2025-05-22,metformina,1000.0,oral,diabetes tipo 2,95.52529516143342,53.0,compensar,med-5662,2025,3,5,adulto
+8436,2025-05-23,enalapril,400.0,intravenosa,gastritis cronica,49.18382103056753,25.0,compensar,med-6504,2025,4,5,adulto
+6852,2025-12-10,enalapril,850.0,subcutanea,hipertension,73.22983364823182,52.0,nueva eps,med-7061,2025,2,12,adulto
+2670,2023-07-17,amoxicilina,1000.0,subcutanea,gastritis cronica,57.11357198400412,27.0,nueva eps,med-9154,2023,0,7,adulto
+3685,2024-05-03,amoxicilina,1000.0,subcutanea,nan,69.5339704898411,70.0,sura,med-9284,2024,4,5,adulto mayor
+1899,2025-03-31,metformina,1000.0,intravenosa,diabetes tipo 2,89.90903915165052,75.0,sanitas,med-8140,2025,0,3,adulto mayor
+3125,2025-09-28,aspirina,200.0,intravenosa,diabetes tipo 2,80.56819080725423,40.0,sura,med-4631,2025,6,9,adulto
+4626,2025-12-06,enalapril,400.0,subcutanea,nan,66.72733856147426,35.0,nueva eps,med-3329,2025,5,12,adulto
+4362,2026-07-04,metformina,1000.0,oral,infeccion respiratoria aguda,79.80184448752622,46.0,compensar,med-6179,2026,5,7,adulto
+5375,2026-04-03,asa,250.0,subcutanea,diabetes tipo 2,56.84977924693182,53.0,nueva eps,med-2367,2026,4,4,adulto
+6525,2026-03-01,aspirina,400.0,intravenosa,diabetes tipo 2,104.74690845985064,30.0,sanitas,med-1490,2026,6,3,adulto
+8200,2025-05-28,asa,250.0,intravenosa,diabetes tipo 2,75.28554117735568,56.0,sura,med-9216,2025,2,5,adulto
+3635,2024-06-02,aspirina,850.0,intravenosa,hipertension,59.73384451306711,29.0,compensar,med-2714,2024,6,6,adulto
+4648,2025-03-29,metformina,250.0,subcutanea,diabetes tipo 2,69.51603583520672,20.0,compensar,med-0862,2025,5,3,adulto
+3695,2023-11-28,ibuprofeno,850.0,intravenosa,gastritis cronica,58.203524333464806,24.0,nueva eps,med-5331,2023,1,11,adulto
+3265,2026-03-21,metformina,200.0,intravenosa,diabetes tipo 2,83.07636265265641,58.0,sanitas,nan,2026,5,3,adulto
+8485,2024-12-01,metformina,850.0,subcutanea,gastritis cronica,58.0047959824476,83.0,sura,med-2996,2024,6,12,adulto mayor
+6084,2023-11-09,amoxicilina,850.0,oral,nan,71.89885175512687,25.0,nueva eps,med-4937,2023,3,11,adulto
+4730,2026-12-03,metformina,400.0,intravenosa,diabetes tipo 2,65.78095591711556,81.0,sura,med-6713,2026,3,12,adulto mayor
+8593,2025-12-01,metformina 500,200.0,intravenosa,neumonia,66.24236327204495,41.0,sanitas,med-3721,2025,0,12,adulto
+8150,2025-04-18,metformina 500,250.0,intravenosa,diabetes tipo 2,66.66038184223044,38.0,sanitas,med-3517,2025,4,4,adulto
+1947,2024-08-23,amoxicilina,850.0,oral,diabetes tipo 2,84.43035130816784,59.0,sanitas,med-1877,2024,4,8,adulto
+2508,2024-05-15,metformina 500,250.0,subcutanea,diabetes tipo 2,57.891864330340816,72.0,sura,med-6502,2024,2,5,adulto mayor
+8816,2026-04-19,aspirina,400.0,intravenosa,neumonia,68.54754668330007,26.0,nueva eps,med-8592,2026,6,4,adulto
+2919,2025-05-24,metformina 500,200.0,subcutanea,infeccion respiratoria aguda,54.83026904619845,69.0,sura,med-0615,2025,5,5,adulto mayor
+1858,2023-11-23,metformina 500,250.0,subcutanea,diabetes tipo 2,41.64431688230235,78.0,sura,med-0396,2023,3,11,adulto mayor
+5272,2023-09-30,asa,850.0,subcutanea,diabetes tipo 2,86.38649574479797,56.0,sura,med-8173,2023,5,9,adulto
+3862,2023-05-19,asa,250.0,oral,gastritis cronica,41.75142964107156,29.0,sura,med-1808,2023,4,5,adulto
+4655,2024-06-30,metformina,250.0,oral,infeccion respiratoria aguda,42.65046273889155,77.0,sanitas,nan,2024,6,6,adulto mayor
+5229,2024-03-02,metformina,500.0,intravenosa,infeccion respiratoria aguda,76.41347002325058,56.0,sanitas,med-2040,2024,5,3,adulto
+4190,2025-12-14,metformina,850.0,subcutanea,hipertension,51.393458253022246,28.0,compensar,med-5971,2025,6,12,adulto
+2627,2025-09-18,amoxicilina,1000.0,intravenosa,nan,76.23978967710204,41.0,nueva eps,med-7558,2025,3,9,adulto
+6261,2025-03-14,amoxicilina,200.0,oral,hipertension,85.81436416274757,76.0,sanitas,med-8842,2025,4,3,adulto mayor
+1758,2025-04-21,enalapril,850.0,oral,nan,54.942504292024665,82.0,compensar,med-5680,2025,0,4,adulto mayor
+6743,2024-12-16,ibuprofeno,250.0,oral,nan,66.24236327204495,32.0,compensar,med-5119,2024,0,12,adulto
+4520,2026-01-29,amoxicilina,500.0,oral,diabetes tipo 2,66.24236327204495,27.0,sura,med-6402,2026,3,1,adulto
+3550,2024-06-06,metformina,400.0,intravenosa,infeccion respiratoria aguda,46.54932813455319,51.0,compensar,nan,2024,3,6,adulto
+5570,2024-11-13,amoxicilina,100.0,oral,diabetes tipo 2,93.72336523638567,41.0,nueva eps,med-4295,2024,2,11,adulto
+6619,2025-10-06,amoxicilina,100.0,oral,diabetes tipo 2,57.952042614917005,83.0,sanitas,med-6244,2025,0,10,adulto mayor
+4291,2026-04-11,metformina 500,100.0,subcutanea,nan,66.24236327204495,30.0,nueva eps,med-7195,2026,5,4,adulto
+2012,2025-07-07,enalapril,500.0,intravenosa,neumonia,74.73678722784985,49.0,compensar,med-6028,2025,0,7,adulto
+7957,2026-04-19,metformina,1000.0,oral,hipertension,70.1949927827673,50.27991886409736,compensar,med-9114,2026,6,4,adulto
+9083,2024-12-18,metformina 500,250.0,oral,nan,67.32741507824966,61.0,sanitas,med-0945,2024,2,12,adulto
+5419,2025-07-28,metformina,1000.0,subcutanea,nan,59.5648603879143,75.0,sanitas,med-1938,2025,0,7,adulto mayor
+7881,2024-03-10,metformina 500,400.0,oral,diabetes tipo 2,75.75834413201642,40.0,sanitas,med-1553,2024,6,3,adulto
+7284,2024-09-24,enalapril,400.0,oral,gastritis cronica,62.22007360878112,55.0,nueva eps,med-5016,2024,1,9,adulto
+6373,2024-04-18,metformina,850.0,intravenosa,hipertension,53.10051769897123,69.0,sura,med-2572,2024,3,4,adulto mayor
+4133,2024-06-25,ibuprofeno,850.0,oral,infeccion respiratoria aguda,81.44167793535348,71.0,compensar,med-9039,2024,1,6,adulto mayor
+7626,2024-05-05,amoxicilina,250.0,subcutanea,diabetes tipo 2,85.738400734662,38.0,compensar,med-5943,2024,6,5,adulto
+4401,2024-12-02,amoxicilina,850.0,oral,hipertension,82.48953381377106,36.0,sura,med-4998,2024,0,12,adulto
+5945,2023-09-30,amoxicilina,200.0,oral,consulta general,69.19487892628938,56.0,sura,med-4434,2023,5,9,adulto
+8209,2025-01-11,ibuprofeno,1000.0,intravenosa,consulta general,73.1551715168336,36.0,nueva eps,med-1111,2025,5,1,adulto
+1155,2025-06-14,metformina 500,1000.0,intravenosa,neumonia,78.52806023611325,56.0,nueva eps,med-2217,2025,5,6,adulto
+5238,2023-07-31,ibuprofeno,850.0,subcutanea,diabetes tipo 2,63.43011099283226,51.0,nueva eps,med-0451,2023,0,7,adulto
+7737,2023-12-02,amoxicilina,500.0,intravenosa,consulta general,74.4317381229271,59.0,sura,med-5297,2023,5,12,adulto
+6944,2024-08-13,amoxicilina,1000.0,intravenosa,nan,53.52684900905445,61.0,sura,med-2353,2024,1,8,adulto
+7160,2025-09-08,enalapril,500.0,subcutanea,diabetes tipo 2,76.38656547979123,22.0,sura,med-0490,2025,0,9,adulto
+6365,2023-07-02,amoxicilina,100.0,oral,gastritis cronica,72.58266981492717,72.0,nueva eps,med-0883,2023,6,7,adulto mayor
+7563,2023-09-14,amoxicilina,400.0,oral,infeccion respiratoria aguda,50.3235800300246,48.0,sura,med-9078,2023,3,9,adulto
+2777,2024-11-18,asa,850.0,intravenosa,infeccion respiratoria aguda,82.9392740421878,70.0,sanitas,nan,2024,0,11,adulto mayor
+3307,2025-08-03,metformina,400.0,intravenosa,nan,44.22025886100201,52.0,sanitas,med-2955,2025,6,8,adulto
+8976,2024-09-28,enalapril,50000.0,oral,nan,66.47532280298763,81.0,nueva eps,med-1010,2024,5,9,adulto mayor
+8525,2023-12-02,amoxicilina,100.0,subcutanea,neumonia,72.7827145868562,67.0,sura,med-4533,2023,5,12,adulto mayor
+5862,2024-10-29,amoxicilina,400.0,oral,neumonia,3.0,80.0,nueva eps,med-6289,2024,1,10,adulto mayor
+4328,2025-02-19,metformina,250.0,oral,consulta general,52.75280215986464,81.0,sanitas,med-8889,2025,2,2,adulto mayor
+5680,2025-07-21,metformina,1000.0,intravenosa,infeccion respiratoria aguda,3.0,65.0,sanitas,med-5937,2025,0,7,adulto mayor
+9859,2023-05-03,ibuprofeno,500.0,intravenosa,gastritis cronica,48.36820383066775,50.27991886409736,sanitas,med-0811,2023,2,5,adulto
+2785,2023-10-09,metformina 500,500.0,oral,neumonia,87.46554839535226,31.0,sura,med-7444,2023,0,10,adulto
+6229,2026-01-09,enalapril,250.0,oral,hipertension,41.58956208663852,48.0,sanitas,med-0110,2026,4,1,adulto
+4597,2025-06-26,amoxicilina,850.0,subcutanea,hipertension,49.22161145662898,56.0,sura,med-1777,2025,3,6,adulto
+3749,2026-01-08,enalapril,250.0,subcutanea,neumonia,54.59988749740919,19.0,compensar,med-4109,2026,3,1,adulto
+8672,2023-05-02,enalapril,850.0,oral,consulta general,76.52242479666205,46.0,nueva eps,med-6704,2023,1,5,adulto
+5397,2025-04-30,ibuprofeno,400.0,intravenosa,infeccion respiratoria aguda,80.18515653860777,19.0,compensar,med-9096,2025,2,4,adulto
+9226,2024-04-04,enalapril,1000.0,oral,gastritis cronica,59.86782512524039,19.0,sanitas,med-2898,2024,3,4,adulto
+1163,2023-11-19,enalapril,850.0,subcutanea,consulta general,77.18477535367468,24.0,sanitas,med-6622,2023,6,11,adulto
+3225,2025-11-24,enalapril,1000.0,oral,nan,91.60760023605974,18.0,sura,med-5926,2025,0,11,adulto
+8392,2024-07-06,metformina 500,1000.0,subcutanea,consulta general,83.4105645908733,72.0,sura,med-7086,2024,5,7,adulto mayor
+2862,2023-05-10,asa,400.0,intravenosa,diabetes tipo 2,49.5977588380558,34.0,sura,nan,2023,2,5,adulto
+1211,2025-04-17,metformina,1000.0,intravenosa,neumonia,87.72727875564323,50.0,sanitas,nan,2025,3,4,adulto
+1798,2023-11-24,metformina,400.0,subcutanea,diabetes tipo 2,80.3601486697491,54.0,sura,nan,2023,4,11,adulto
+5126,2025-10-16,metformina,100.0,subcutanea,hipertension,60.12192411062947,54.0,compensar,med-8348,2025,3,10,adulto
+4549,2026-01-12,ibuprofeno,850.0,subcutanea,consulta general,77.60557728998224,50.0,sura,nan,2026,0,1,adulto
+2615,2024-08-20,asa,200.0,intravenosa,diabetes tipo 2,56.30240861745239,44.0,nueva eps,med-2962,2024,1,8,adulto
+5720,2025-03-26,metformina,250.0,oral,infeccion respiratoria aguda,80.86299741113226,64.0,sura,med-2556,2025,2,3,adulto
+7903,2023-09-11,metformina,250.0,subcutanea,infeccion respiratoria aguda,71.22991328569285,58.0,sura,med-5896,2023,0,9,adulto
+5375,2023-11-27,metformina,250.0,oral,hipertension,51.351816191799855,24.0,nueva eps,med-0392,2023,0,11,adulto
+2018,2023-08-02,aspirina,1000.0,intravenosa,diabetes tipo 2,32.44655050469467,32.0,sura,med-7686,2023,2,8,adulto
+4276,2025-10-01,ibuprofeno,250.0,intravenosa,hipertension,71.95213988095071,40.0,sura,med-5003,2025,2,10,adulto
+6825,2024-02-25,enalapril,100.0,oral,gastritis cronica,55.63713478504943,22.0,sura,med-1121,2024,6,2,adulto
+2781,2023-04-05,enalapril,1000.0,subcutanea,infeccion respiratoria aguda,46.45247953689346,33.0,sura,med-3352,2023,2,4,adulto
+6189,2025-06-28,enalapril,500.0,subcutanea,consulta general,69.43298204326325,50.27991886409736,compensar,med-0712,2025,5,6,adulto
+2356,2026-03-01,asa,500.0,subcutanea,diabetes tipo 2,92.4021662614024,28.0,nueva eps,med-1458,2026,6,3,adulto
+5073,2026-03-11,asa,1000.0,subcutanea,diabetes tipo 2,66.24236327204495,48.0,sanitas,med-0116,2026,2,3,adulto
+2506,2023-11-24,metformina,500.0,subcutanea,neumonia,66.24236327204495,32.0,sanitas,med-6125,2023,4,11,adulto
+8035,2025-06-04,metformina 500,200.0,oral,consulta general,53.71387938264925,21.0,sanitas,med-1953,2025,2,6,adulto
+3200,2024-08-21,metformina,1000.0,oral,infeccion respiratoria aguda,72.721172692067,84.0,sanitas,med-6737,2024,2,8,adulto mayor
+9492,2026-03-11,enalapril,250.0,intravenosa,consulta general,85.00854555682162,54.0,sanitas,med-5936,2026,2,3,adulto
+6639,2025-02-12,enalapril,200.0,subcutanea,diabetes tipo 2,70.40601407652622,32.0,nueva eps,med-0259,2025,2,2,adulto
+5092,2026-01-23,enalapril,200.0,intravenosa,diabetes tipo 2,55.66280408928523,35.0,sanitas,med-2497,2026,4,1,adulto
+6658,2024-12-12,asa,250.0,subcutanea,consulta general,77.57660290366879,74.0,sura,med-2982,2024,3,12,adulto mayor
+2249,2024-01-29,ibuprofeno,200.0,subcutanea,hipertension,55.85567182126015,65.0,sura,med-9695,2024,0,1,adulto mayor
+7027,2025-03-29,metformina,200.0,oral,infeccion respiratoria aguda,74.51955772321395,53.0,nueva eps,med-3176,2025,5,3,adulto
+1720,2024-04-07,metformina,250.0,oral,neumonia,64.2081265071629,71.0,nueva eps,nan,2024,6,4,adulto mayor
+7645,2025-05-03,amoxicilina,1000.0,oral,nan,75.70991915902341,37.0,compensar,med-1712,2025,5,5,adulto
+7087,2025-11-28,metformina,200.0,oral,diabetes tipo 2,68.44967484679817,62.0,compensar,med-0844,2025,4,11,adulto
+9546,2026-01-31,amoxicilina,100.0,intravenosa,consulta general,78.51157853477243,55.0,sanitas,med-5811,2026,5,1,adulto
+8628,2024-05-16,metformina,100.0,intravenosa,hipertension,66.00239690111313,27.0,compensar,med-1964,2024,3,5,adulto
+3682,2026-01-15,aspirina,500.0,oral,diabetes tipo 2,87.37323837551548,28.0,sura,med-7055,2026,3,1,adulto
+5787,2024-10-22,amoxicilina,200.0,intravenosa,nan,55.42410922931473,73.0,compensar,med-8888,2024,1,10,adulto mayor
+5284,2025-01-07,asa,500.0,intravenosa,diabetes tipo 2,53.49943380372199,63.0,nueva eps,med-8620,2025,1,1,adulto
+2888,2026-03-27,aspirina,500.0,oral,neumonia,58.880828246549626,82.0,nueva eps,med-2477,2026,4,3,adulto mayor
+7386,2024-04-27,amoxicilina,200.0,oral,infeccion respiratoria aguda,68.1309933569659,73.0,sanitas,med-4926,2024,5,4,adulto mayor
+4125,2026-02-16,metformina,1000.0,oral,gastritis cronica,75.69455755802986,48.0,sanitas,med-4840,2026,0,2,adulto
+4774,2024-03-12,metformina,850.0,intravenosa,neumonia,67.49594415758759,24.0,sanitas,med-7786,2024,1,3,adulto
+3309,2025-08-26,enalapril,500.0,intravenosa,nan,63.69788760359121,39.0,sura,med-5316,2025,1,8,adulto
+7109,2024-09-17,ibuprofeno,250.0,oral,nan,48.43474759357755,57.0,sura,med-2782,2024,1,9,adulto
+1129,2026-01-03,ibuprofeno,200.0,subcutanea,consulta general,66.24236327204495,32.0,compensar,med-6424,2026,5,1,adulto
+8480,2024-06-30,ibuprofeno,400.0,intravenosa,hipertension,52.152837517896415,34.0,nueva eps,med-1530,2024,6,6,adulto
+9685,2025-04-27,aspirina,200.0,oral,consulta general,67.37461116552048,52.0,sura,med-0427,2025,6,4,adulto
+8884,2024-07-14,ibuprofeno,850.0,subcutanea,infeccion respiratoria aguda,70.07178607183654,35.0,nueva eps,med-3256,2024,6,7,adulto
+9772,2025-12-06,ibuprofeno,500.0,intravenosa,diabetes tipo 2,88.65704522399817,48.0,compensar,med-6371,2025,5,12,adulto
+6955,2024-08-17,ibuprofeno,1000.0,subcutanea,nan,68.28350911066745,52.0,sanitas,med-4707,2024,5,8,adulto
+1500,2026-01-18,metformina,850.0,subcutanea,infeccion respiratoria aguda,79.59715482790182,39.0,nueva eps,med-1949,2026,6,1,adulto
+2825,2023-05-21,aspirina,200.0,intravenosa,infeccion respiratoria aguda,50.95678880053321,30.0,sura,med-7699,2023,6,5,adulto
+2868,2025-01-15,amoxicilina,200.0,intravenosa,hipertension,66.62960192521213,58.0,nueva eps,med-6873,2025,2,1,adulto
+5947,2024-10-02,enalapril,100.0,intravenosa,hipertension,69.31168622308103,56.0,nueva eps,med-1093,2024,2,10,adulto
+4769,2025-03-06,metformina,100.0,subcutanea,hipertension,66.24236327204495,20.0,sura,med-7607,2025,3,3,adulto
+6642,2026-02-03,asa,500.0,subcutanea,hipertension,48.989363182454014,23.0,sura,med-1922,2026,1,2,adulto
+8102,2025-07-20,ibuprofeno,250.0,intravenosa,nan,57.52505650384208,27.0,nueva eps,med-3100,2025,6,7,adulto
+5825,2026-12-04,amoxicilina,200.0,intravenosa,diabetes tipo 2,55.83186355715618,68.0,sura,med-2177,2026,4,12,adulto mayor
+2440,2025-08-16,amoxicilina,500.0,intravenosa,diabetes tipo 2,73.25745819516298,60.0,nueva eps,med-6309,2025,5,8,adulto
+8223,2024-09-07,metformina,100.0,intravenosa,gastritis cronica,45.67222370349478,64.0,compensar,med-1532,2024,5,9,adulto
+5077,2025-12-08,enalapril,850.0,oral,consulta general,55.82869729176399,44.0,sura,med-8196,2025,0,12,adulto
+9550,2025-10-08,asa,200.0,subcutanea,diabetes tipo 2,74.9822221752639,26.0,compensar,nan,2025,2,10,adulto
+7922,2026-01-23,enalapril,250.0,intravenosa,nan,63.479272656995086,73.0,compensar,med-1080,2026,4,1,adulto mayor
+4245,2025-04-21,metformina,1000.0,oral,diabetes tipo 2,71.47137788885438,83.0,nueva eps,med-5792,2025,0,4,adulto mayor
+4078,2024-07-18,metformina,500.0,subcutanea,diabetes tipo 2,61.11886013146759,69.0,compensar,med-0748,2024,3,7,adulto mayor
+7656,2025-08-14,metformina 500,400.0,subcutanea,hipertension,74.14869192268733,63.0,sura,med-1468,2025,3,8,adulto
+3800,2024-12-10,asa,250.0,oral,nan,66.7347996578814,56.0,nueva eps,med-1863,2024,1,12,adulto
+3181,2024-06-12,metformina,500.0,subcutanea,neumonia,55.35184436370692,70.0,nueva eps,med-0753,2024,2,6,adulto mayor
+3750,2025-12-17,metformina,1000.0,oral,hipertension,89.61306282616309,46.0,nueva eps,med-4497,2025,2,12,adulto
+7936,2023-06-13,asa,850.0,oral,consulta general,71.14186936706223,24.0,sura,med-6585,2023,1,6,adulto
+2494,2026-01-23,ibuprofeno,100.0,subcutanea,gastritis cronica,74.94585453828309,72.0,sanitas,med-7431,2026,4,1,adulto mayor
+7308,2024-07-20,ibuprofeno,200.0,intravenosa,gastritis cronica,49.90434974423308,30.0,compensar,med-4661,2024,5,7,adulto
+7243,2024-12-28,metformina,200.0,intravenosa,nan,65.73675178913717,20.0,compensar,med-0754,2024,5,12,adulto
+5643,2024-10-06,amoxicilina,400.0,intravenosa,diabetes tipo 2,65.08309460435446,55.0,sanitas,med-1372,2024,6,10,adulto
+9219,2025-03-20,metformina,250.0,oral,diabetes tipo 2,80.45578435622082,26.0,sura,med-8697,2025,3,3,adulto
+9243,2025-05-18,ibuprofeno,200.0,oral,diabetes tipo 2,58.56617842289201,54.0,compensar,med-5551,2025,6,5,adulto
+3109,2025-03-10,amoxicilina,50000.0,intravenosa,hipertension,60.33763059722396,35.0,sura,med-9076,2025,0,3,adulto
+4681,2025-08-28,amoxicilina,400.0,intravenosa,hipertension,64.95858985831991,84.0,compensar,med-8903,2025,3,8,adulto mayor
+7881,2025-09-14,amoxicilina,100.0,subcutanea,infeccion respiratoria aguda,68.83730936511895,22.0,nueva eps,med-8250,2025,6,9,adulto
+3519,2023-12-29,metformina,1000.0,oral,diabetes tipo 2,89.13397527697505,50.0,compensar,med-0134,2023,4,12,adulto
+8604,2025-05-05,metformina,100.0,subcutanea,neumonia,53.29173723726721,74.0,sura,med-8831,2025,0,5,adulto mayor
+7613,2024-01-10,metformina,200.0,subcutanea,diabetes tipo 2,53.06247013215011,67.0,sanitas,nan,2024,2,1,adulto mayor
+2759,2023-12-06,enalapril,400.0,subcutanea,infeccion respiratoria aguda,86.44566513920763,19.0,nueva eps,nan,2023,2,12,adulto
+5364,2024-01-20,metformina,200.0,intravenosa,nan,71.54277666898565,83.0,sura,med-8389,2024,5,1,adulto mayor
+1183,2024-02-24,aspirina,250.0,intravenosa,nan,72.87616721681616,83.0,sura,med-6578,2024,5,2,adulto mayor
+1481,2024-10-24,ibuprofeno,100.0,intravenosa,nan,61.08802745797526,83.0,sura,med-1510,2024,3,10,adulto mayor
+1037,2025-01-15,enalapril,250.0,intravenosa,nan,54.4832131174112,83.0,nueva eps,med-1037,2025,2,1,adulto mayor
+2871,2025-01-06,enalapril,200.0,oral,nan,63.549583105931305,56.0,sura,med-6453,2025,0,1,adulto
+1447,2024-06-30,asa,100.0,oral,neumonia,45.92656187043522,70.0,compensar,med-2575,2024,6,6,adulto mayor
+6756,2025-12-15,enalapril,500.0,oral,nan,76.49793923541554,52.0,sura,nan,2025,0,12,adulto
+4774,2025-11-20,ibuprofeno,200.0,subcutanea,consulta general,62.773465987614,50.0,nueva eps,med-6278,2025,3,11,adulto
+8506,2023-09-24,aspirina,400.0,intravenosa,consulta general,67.71477360646615,21.0,sanitas,med-4649,2023,6,9,adulto
+2920,2025-02-13,asa,400.0,oral,nan,66.24236327204495,50.0,nueva eps,med-3041,2025,3,2,adulto
+8642,2023-11-17,ibuprofeno,400.0,subcutanea,nan,62.60846917311872,63.0,sura,med-6620,2023,4,11,adulto
+1307,2025-01-24,amoxicilina,500.0,oral,diabetes tipo 2,63.74485127768158,27.0,sanitas,med-6846,2025,4,1,adulto
+4518,2025-11-09,ibuprofeno,200.0,oral,gastritis cronica,52.13615566447005,76.0,nueva eps,med-8699,2025,6,11,adulto mayor
+9391,2023-08-16,metformina,500.0,oral,hipertension,65.00144746561342,40.0,compensar,med-4601,2023,2,8,adulto
+8847,2024-12-02,ibuprofeno,850.0,oral,hipertension,57.90287177761884,26.0,sanitas,med-6437,2024,0,12,adulto
+7213,2024-05-17,enalapril,400.0,oral,nan,69.51897731597296,77.0,nueva eps,med-5856,2024,4,5,adulto mayor
+5925,2025-03-28,asa,100.0,oral,diabetes tipo 2,62.96475812854368,67.0,compensar,med-9972,2025,4,3,adulto mayor
+7447,2024-05-18,ibuprofeno,1000.0,oral,neumonia,3.0,25.0,nueva eps,med-4086,2024,5,5,adulto
+7448,2026-03-03,amoxicilina,200.0,oral,nan,60.72436672341374,20.0,compensar,med-7994,2026,1,3,adulto
+5653,2025-07-28,ibuprofeno,400.0,subcutanea,hipertension,62.97001876406343,38.0,compensar,med-6140,2025,0,7,adulto
+3335,2026-02-09,ibuprofeno,250.0,oral,nan,77.9523325436051,29.0,sanitas,med-8926,2026,0,2,adulto
+3316,2023-07-05,metformina 500,400.0,subcutanea,diabetes tipo 2,80.2453287166272,23.0,nueva eps,med-9464,2023,2,7,adulto
+3941,2023-08-19,aspirina,400.0,subcutanea,diabetes tipo 2,53.67835312388337,66.0,sanitas,med-0337,2023,5,8,adulto mayor
+3468,2024-05-24,amoxicilina,200.0,subcutanea,diabetes tipo 2,95.77198643128096,23.0,nueva eps,med-0372,2024,4,5,adulto
+9632,2025-08-18,enalapril,850.0,subcutanea,hipertension,63.27484769592323,77.0,sanitas,med-9794,2025,0,8,adulto mayor
+2253,2024-08-09,amoxicilina,400.0,oral,nan,82.6586587572468,53.0,nueva eps,med-3583,2024,4,8,adulto
+4369,2025-04-07,amoxicilina,400.0,subcutanea,diabetes tipo 2,54.14880790724758,39.0,nueva eps,med-4550,2025,0,4,adulto
+2479,2024-04-08,amoxicilina,200.0,oral,infeccion respiratoria aguda,78.810406858662,68.0,sura,med-6065,2024,0,4,adulto mayor
+6266,2025-12-22,metformina,400.0,oral,nan,65.77278314368348,57.0,sanitas,med-4236,2025,0,12,adulto
+7761,2025-02-19,metformina 500,1000.0,oral,hipertension,53.25620676983273,58.0,sura,med-5077,2025,2,2,adulto
+7133,2025-09-21,amoxicilina,500.0,subcutanea,nan,80.96845305743958,50.27991886409736,nueva eps,med-9119,2025,6,9,adulto
+1433,2023-06-08,enalapril,850.0,oral,gastritis cronica,63.06652904389848,68.0,nueva eps,med-6132,2023,3,6,adulto mayor
+3769,2026-02-21,ibuprofeno,200.0,oral,infeccion respiratoria aguda,81.88030911166166,53.0,sanitas,med-1205,2026,5,2,adulto
+3225,2026-03-12,metformina,250.0,oral,neumonia,76.48198448235145,47.0,sura,med-9291,2026,3,3,adulto
+4911,2024-08-30,asa,850.0,subcutanea,nan,3.0,42.0,nueva eps,med-2781,2024,4,8,adulto
+4879,2024-05-22,aspirina,500.0,intravenosa,hipertension,69.0572832386843,41.0,sura,med-7508,2024,2,5,adulto
+5521,2024-07-29,metformina,100.0,subcutanea,hipertension,58.0162347153608,65.0,nueva eps,med-0317,2024,0,7,adulto mayor
+2046,2024-11-24,enalapril,400.0,oral,diabetes tipo 2,73.05186868912247,50.27991886409736,sanitas,med-2820,2024,6,11,adulto
+6973,2023-11-27,enalapril,850.0,intravenosa,nan,49.36298551432546,70.0,sura,med-4786,2023,0,11,adulto mayor
+1861,2025-03-22,metformina 500,200.0,subcutanea,consulta general,81.24246811881997,40.0,compensar,med-4018,2025,5,3,adulto
+5790,2023-05-29,asa,1000.0,intravenosa,diabetes tipo 2,56.50297440958756,25.0,compensar,nan,2023,0,5,adulto
+5932,2025-11-04,aspirina,1000.0,oral,gastritis cronica,53.7895907870966,65.0,compensar,med-0677,2025,1,11,adulto mayor
+4134,2023-11-12,amoxicilina,500.0,intravenosa,consulta general,59.355437705582574,25.0,sanitas,med-8945,2023,6,11,adulto
+4222,2024-08-27,metformina,1000.0,oral,nan,70.98732137922181,48.0,nueva eps,med-8314,2024,1,8,adulto
+5733,2024-08-29,metformina 500,100.0,subcutanea,neumonia,3.0,39.0,nueva eps,med-3443,2024,3,8,adulto
+1168,2025-02-09,enalapril,1000.0,oral,consulta general,85.17111445421861,50.27991886409736,nueva eps,med-9117,2025,6,2,adulto
+8342,2023-05-30,ibuprofeno,250.0,oral,hipertension,76.98211708811556,38.0,sura,med-2373,2023,1,5,adulto
+1179,2023-08-28,amoxicilina,500.0,oral,gastritis cronica,80.61458594442456,54.0,sura,med-5914,2023,0,8,adulto
+6611,2023-12-24,amoxicilina,1000.0,oral,consulta general,54.49549148532226,62.0,sanitas,med-1831,2023,6,12,adulto
+1932,2024-09-10,metformina,100.0,oral,infeccion respiratoria aguda,77.0925820483376,82.0,compensar,med-0632,2024,1,9,adulto mayor
+9722,2024-03-29,metformina,850.0,subcutanea,nan,80.74849609245746,81.0,sanitas,med-4701,2024,4,3,adulto mayor
+8939,2024-03-21,ibuprofeno,200.0,subcutanea,consulta general,66.01291588295913,43.0,sanitas,nan,2024,3,3,adulto
+7608,2026-04-17,enalapril,400.0,oral,neumonia,66.24236327204495,19.0,sanitas,med-7625,2026,4,4,adulto
+2585,2025-12-07,ibuprofeno,1000.0,intravenosa,consulta general,50.41202553006806,47.0,compensar,med-7258,2025,6,12,adulto
+4267,2023-10-07,metformina,1000.0,subcutanea,nan,51.42715874747177,40.0,sura,med-0481,2023,5,10,adulto
+1413,2025-02-02,metformina,500.0,oral,infeccion respiratoria aguda,66.24236327204495,73.0,nueva eps,med-6250,2025,6,2,adulto mayor
+5017,2025-07-15,amoxicilina,1000.0,intravenosa,hipertension,64.93736145453106,34.0,nueva eps,med-4403,2025,1,7,adulto
+7731,2024-04-01,enalapril,400.0,subcutanea,gastritis cronica,69.13686097852585,73.0,sura,med-5589,2024,0,4,adulto mayor
+3474,2025-04-12,ibuprofeno,200.0,oral,gastritis cronica,65.04845276600788,51.0,sanitas,med-4997,2025,5,4,adulto
+9281,2025-06-13,enalapril,250.0,subcutanea,diabetes tipo 2,68.96917561902279,50.27991886409736,sanitas,med-9681,2025,4,6,adulto
+8580,2025-07-21,asa,100.0,oral,diabetes tipo 2,69.55815924404936,19.0,sura,med-7176,2025,0,7,adulto
+8299,2025-10-20,ibuprofeno,1000.0,oral,consulta general,75.41243657081861,60.0,sura,med-3920,2025,0,10,adulto
+3831,2026-01-05,aspirina,250.0,oral,hipertension,49.506904040636215,41.0,sura,med-1144,2026,0,1,adulto
+9815,2024-02-14,metformina,850.0,oral,hipertension,60.320068619623726,80.0,sanitas,med-9771,2024,2,2,adulto mayor
+7662,2025-01-23,metformina,200.0,intravenosa,nan,67.39530830339044,47.0,sura,med-9590,2025,3,1,adulto
+2800,2025-07-12,metformina 500,500.0,intravenosa,infeccion respiratoria aguda,76.00414752369872,75.0,compensar,med-9711,2025,5,7,adulto mayor
+7025,2023-07-25,amoxicilina,850.0,oral,diabetes tipo 2,74.811155473523,76.0,compensar,med-6390,2023,1,7,adulto mayor
+1709,2024-01-16,enalapril,1000.0,oral,consulta general,66.82993512779503,56.0,nueva eps,med-9734,2024,1,1,adulto
+1592,2024-01-09,enalapril,100.0,intravenosa,gastritis cronica,71.59120460531639,44.0,sura,med-2121,2024,1,1,adulto
+6288,2023-12-20,amoxicilina,850.0,subcutanea,hipertension,53.14797796546191,56.0,nueva eps,med-2877,2023,2,12,adulto
+9209,2024-12-17,amoxicilina,250.0,subcutanea,diabetes tipo 2,79.3723282018101,19.0,compensar,med-8536,2024,1,12,adulto
+2641,2025-07-21,metformina,500.0,oral,nan,83.13706831074114,54.0,sanitas,med-1109,2025,0,7,adulto
+7348,2026-03-22,metformina,250.0,oral,gastritis cronica,68.09287855064429,50.27991886409736,compensar,med-5169,2026,6,3,adulto
+2326,2024-03-18,aspirina,400.0,intravenosa,nan,59.13333239372911,58.0,nueva eps,med-9369,2024,0,3,adulto
+4261,2024-01-25,asa,100.0,intravenosa,hipertension,66.05557874422848,49.0,sura,med-3796,2024,3,1,adulto
+9989,2024-01-10,metformina 500,1000.0,intravenosa,nan,66.61576371914991,35.0,sanitas,med-2726,2024,2,1,adulto
+5137,2025-07-27,metformina 500,1000.0,subcutanea,hipertension,64.81313517627962,61.0,compensar,med-5296,2025,6,7,adulto
+2011,2024-08-06,asa,250.0,subcutanea,neumonia,66.60123907974925,40.0,sura,med-0148,2024,1,8,adulto
+6903,2024-01-28,metformina,200.0,intravenosa,diabetes tipo 2,61.82554149437715,23.0,sanitas,med-6938,2024,6,1,adulto
+4324,2024-04-17,amoxicilina,200.0,subcutanea,hipertension,64.09854879310959,31.0,nueva eps,med-5117,2024,2,4,adulto
+1931,2024-03-26,metformina,400.0,intravenosa,nan,72.0936978237213,27.0,nueva eps,med-5131,2024,1,3,adulto
+1669,2024-03-01,aspirina,400.0,oral,hipertension,32.73193762407119,37.0,nueva eps,med-5512,2024,4,3,adulto
+5331,2024-07-01,aspirina,250.0,intravenosa,gastritis cronica,60.56880582911907,50.27991886409736,sanitas,med-1648,2024,0,7,adulto
+4399,2024-08-22,aspirina,250.0,subcutanea,hipertension,72.43048230777713,35.0,nueva eps,med-3334,2024,3,8,adulto
+1858,2025-06-16,asa,1000.0,intravenosa,hipertension,49.83003874659695,30.0,sura,med-8020,2025,0,6,adulto
+4542,2024-11-22,metformina,500.0,oral,diabetes tipo 2,69.46573590633272,70.0,sura,med-0338,2024,4,11,adulto mayor
+2223,2024-05-23,asa,250.0,subcutanea,consulta general,66.24236327204495,42.0,nueva eps,med-4491,2024,3,5,adulto
+1644,2024-12-24,metformina,400.0,subcutanea,hipertension,80.51216060425162,80.0,sanitas,med-6507,2024,1,12,adulto mayor
+5587,2023-11-12,metformina,1000.0,intravenosa,nan,65.2571106137022,75.0,nueva eps,med-9695,2023,6,11,adulto mayor
+3157,2026-04-15,aspirina,1000.0,intravenosa,infeccion respiratoria aguda,43.203953110527735,79.0,compensar,med-5856,2026,2,4,adulto mayor
+9625,2024-06-25,enalapril,1000.0,intravenosa,diabetes tipo 2,69.2091543593704,79.0,nueva eps,med-3650,2024,1,6,adulto mayor
+6815,2024-12-17,metformina 500,400.0,oral,diabetes tipo 2,57.17555624656185,44.0,sura,med-3717,2024,1,12,adulto
+7165,2025-03-28,ibuprofeno,400.0,oral,neumonia,86.33170305697548,50.27991886409736,nueva eps,med-8948,2025,4,3,adulto
+4182,2023-05-11,metformina,1000.0,intravenosa,infeccion respiratoria aguda,60.95029496365807,30.0,sanitas,nan,2023,3,5,adulto
+1175,2024-10-12,aspirina,250.0,oral,consulta general,52.838324946866265,62.0,sura,med-7112,2024,5,10,adulto
+4912,2023-08-21,amoxicilina,400.0,intravenosa,nan,89.5216273867216,83.0,sanitas,med-4137,2023,0,8,adulto mayor
+5523,2024-01-29,enalapril,400.0,intravenosa,hipertension,78.82546595579508,57.0,nueva eps,med-8810,2024,0,1,adulto
+7566,2024-07-22,aspirina,250.0,oral,hipertension,70.03195274237686,45.0,sura,nan,2024,0,7,adulto
+5234,2023-12-03,metformina 500,200.0,intravenosa,hipertension,66.24236327204495,75.0,sura,med-0582,2023,6,12,adulto mayor
+5343,2025-04-02,enalapril,400.0,intravenosa,consulta general,47.98219440752521,22.0,sura,med-3660,2025,2,4,adulto
+1242,2025-07-02,metformina,400.0,subcutanea,diabetes tipo 2,3.0,64.0,compensar,nan,2025,2,7,adulto
+9090,2025-07-08,asa,500.0,oral,nan,64.44677260935732,33.0,nueva eps,med-2855,2025,1,7,adulto
+1183,2025-07-02,enalapril,500.0,subcutanea,neumonia,71.34377000975319,73.0,nueva eps,med-9930,2025,2,7,adulto mayor
+8993,2023-08-11,amoxicilina,250.0,oral,hipertension,67.62560123535354,80.0,sura,med-4121,2023,4,8,adulto mayor
+7142,2025-03-16,asa,400.0,oral,diabetes tipo 2,77.75709894084578,25.0,sura,med-4746,2025,6,3,adulto
+8615,2025-10-19,enalapril,200.0,subcutanea,diabetes tipo 2,67.80259434513782,78.0,compensar,med-9995,2025,6,10,adulto mayor
+6720,2024-08-22,ibuprofeno,850.0,subcutanea,nan,66.24236327204495,34.0,sura,med-2620,2024,3,8,adulto
+4865,2025-06-22,enalapril,250.0,oral,neumonia,73.22472155568788,55.0,sanitas,med-5336,2025,6,6,adulto
+4627,2025-12-10,metformina 500,250.0,oral,consulta general,68.99677821344328,50.27991886409736,nueva eps,nan,2025,2,12,adulto
+3821,2024-06-20,enalapril,250.0,subcutanea,neumonia,81.4750946537772,39.0,nueva eps,med-3856,2024,3,6,adulto
+2533,2024-05-26,amoxicilina,1000.0,subcutanea,consulta general,52.53047949744044,77.0,compensar,med-2422,2024,6,5,adulto mayor
+6911,2023-06-23,metformina,100.0,subcutanea,gastritis cronica,43.842448609459616,21.0,sura,med-9328,2023,4,6,adulto
+8782,2025-06-04,metformina,1000.0,oral,hipertension,56.02950867366563,24.0,sanitas,med-5200,2025,2,6,adulto
+4364,2024-05-20,asa,500.0,oral,nan,63.30739464923754,66.0,nueva eps,med-4651,2024,0,5,adulto mayor
+8892,2024-02-06,metformina,500.0,intravenosa,neumonia,61.36195648097713,51.0,sura,med-2132,2024,1,2,adulto
+3094,2025-04-11,asa,1000.0,subcutanea,gastritis cronica,80.97369913455337,55.0,nueva eps,med-2795,2025,4,4,adulto
+8467,2024-09-25,enalapril,500.0,intravenosa,hipertension,68.16662228693667,70.0,nueva eps,med-9249,2024,2,9,adulto mayor
+2812,2025-01-23,enalapril,200.0,oral,consulta general,48.88692236653742,62.0,sura,med-0442,2025,3,1,adulto
+1439,2024-09-17,asa,200.0,intravenosa,consulta general,2.0,52.0,compensar,med-9836,2024,1,9,adulto
+8367,2024-09-10,metformina,400.0,oral,hipertension,77.01640626302127,25.0,sanitas,med-2166,2024,1,9,adulto
+8398,2023-11-27,aspirina,850.0,intravenosa,hipertension,81.78901411460375,72.0,sura,nan,2023,0,11,adulto mayor
+5564,2023-07-25,aspirina,1000.0,oral,diabetes tipo 2,62.324864344777566,26.0,sura,nan,2023,1,7,adulto
+4488,2024-11-18,enalapril,400.0,subcutanea,hipertension,87.15002212162733,50.27991886409736,sura,med-4477,2024,0,11,adulto
+5187,2025-08-14,asa,1000.0,oral,diabetes tipo 2,51.99301153615922,68.0,sura,med-5214,2025,3,8,adulto mayor
+8200,2025-01-05,enalapril,250.0,oral,diabetes tipo 2,75.73056462635743,71.0,nueva eps,med-7700,2025,6,1,adulto mayor
+4419,2024-10-21,amoxicilina,250.0,oral,infeccion respiratoria aguda,40.56719535349868,73.0,sanitas,med-9170,2024,0,10,adulto mayor
+2525,2025-12-07,metformina,850.0,intravenosa,gastritis cronica,47.95669401555028,65.0,nueva eps,med-4896,2025,6,12,adulto mayor
+1909,2025-09-28,amoxicilina,850.0,oral,gastritis cronica,45.69779292367888,19.0,compensar,med-2344,2025,6,9,adulto
+1832,2024-05-02,ibuprofeno,400.0,oral,gastritis cronica,87.20099926905019,40.0,sanitas,med-0191,2024,3,5,adulto
+6768,2025-02-09,metformina 500,400.0,subcutanea,diabetes tipo 2,77.70589392631871,67.0,sura,nan,2025,6,2,adulto mayor
+2932,2024-09-16,enalapril,400.0,intravenosa,hipertension,66.24236327204495,72.0,sura,nan,2024,0,9,adulto mayor
+2624,2023-09-13,metformina,1000.0,oral,nan,57.60112334089442,37.0,sura,med-6281,2023,2,9,adulto
+8615,2024-08-22,metformina,100.0,intravenosa,consulta general,75.35739998702192,43.0,nueva eps,nan,2024,3,8,adulto
+2965,2026-03-21,metformina,500.0,oral,diabetes tipo 2,67.38843436885955,80.0,sura,med-5892,2026,5,3,adulto mayor
+9975,2024-01-07,ibuprofeno,250.0,subcutanea,nan,37.776165339250696,35.0,nueva eps,med-7740,2024,6,1,adulto
+6145,2023-12-31,amoxicilina,100.0,subcutanea,consulta general,74.37122718171699,44.0,nueva eps,med-0392,2023,6,12,adulto
+1096,2025-06-26,enalapril,250.0,intravenosa,hipertension,63.37020769378044,50.27991886409736,nueva eps,med-7588,2025,3,6,adulto
+1676,2024-03-20,metformina,100.0,oral,hipertension,85.74373075900029,58.0,nueva eps,med-0731,2024,2,3,adulto
+7441,2026-02-04,enalapril,400.0,subcutanea,diabetes tipo 2,48.23928154238622,51.0,sanitas,med-0642,2026,2,2,adulto
+5832,2023-05-19,enalapril,850.0,oral,infeccion respiratoria aguda,58.60874951393541,77.0,compensar,med-5867,2023,4,5,adulto mayor
+9489,2023-11-13,metformina 500,850.0,oral,gastritis cronica,73.73797629430472,50.0,sanitas,med-3728,2023,0,11,adulto
+2209,2025-10-14,metformina,850.0,intravenosa,infeccion respiratoria aguda,69.15213747513026,70.0,nueva eps,med-2392,2025,1,10,adulto mayor
+4847,2026-01-23,enalapril,100.0,intravenosa,diabetes tipo 2,65.22560302017544,71.0,sanitas,nan,2026,4,1,adulto mayor
+4777,2025-02-16,ibuprofeno,250.0,oral,gastritis cronica,71.49248615373718,71.0,sanitas,med-3023,2025,6,2,adulto mayor
+6550,2023-06-14,asa,100.0,oral,gastritis cronica,69.45652086323643,42.0,nueva eps,med-6554,2023,2,6,adulto
+1985,2025-05-15,asa,850.0,oral,diabetes tipo 2,66.05189903448493,54.0,sura,nan,2025,3,5,adulto
+5263,2024-02-29,metformina 500,1000.0,subcutanea,diabetes tipo 2,65.65631299303963,59.0,nueva eps,med-1026,2024,3,2,adulto
+9474,2025-12-16,amoxicilina,1000.0,intravenosa,hipertension,63.18971019873352,25.0,sanitas,nan,2025,1,12,adulto
+6639,2026-02-26,enalapril,400.0,oral,hipertension,62.52182117688999,40.0,sura,med-4319,2026,3,2,adulto
+4559,2025-11-29,enalapril,100.0,oral,gastritis cronica,60.095432806761366,73.0,sanitas,med-1514,2025,5,11,adulto mayor
+7583,2024-12-10,metformina,250.0,subcutanea,diabetes tipo 2,81.63253844927672,59.0,nueva eps,med-8464,2024,1,12,adulto
+9061,2024-04-22,metformina 500,100.0,subcutanea,gastritis cronica,49.39524246846791,59.0,sanitas,med-6662,2024,0,4,adulto
+7045,2024-05-11,enalapril,100.0,oral,nan,52.90948593324282,33.0,nueva eps,med-2151,2024,5,5,adulto
+6188,2025-05-30,enalapril,250.0,oral,nan,62.51002130714063,76.0,nueva eps,med-9066,2025,4,5,adulto mayor
+8041,2025-05-21,ibuprofeno,250.0,oral,diabetes tipo 2,99.15922060819187,54.0,sura,med-3205,2025,2,5,adulto
+1699,2025-02-27,metformina 500,250.0,subcutanea,diabetes tipo 2,69.9790700325489,83.0,nueva eps,med-2681,2025,3,2,adulto mayor
+9491,2024-11-13,enalapril,200.0,subcutanea,neumonia,68.44293603875226,36.0,sura,med-1582,2024,2,11,adulto
+7195,2025-04-13,aspirina,400.0,oral,nan,69.89824441609564,18.0,sanitas,med-4286,2025,6,4,adulto
+1266,2025-12-03,metformina 500,400.0,oral,nan,59.142280344574615,78.0,nueva eps,med-6200,2025,2,12,adulto mayor
+4578,2025-09-14,metformina 500,100.0,oral,nan,61.17280082798791,43.0,compensar,med-6668,2025,6,9,adulto
+6420,2023-05-23,ibuprofeno,400.0,oral,nan,54.72772530307994,62.0,compensar,med-7831,2023,1,5,adulto
+1624,2026-01-09,metformina,850.0,subcutanea,infeccion respiratoria aguda,63.43688212672525,76.0,nueva eps,med-1045,2026,4,1,adulto mayor
+2551,2024-12-27,amoxicilina,200.0,intravenosa,hipertension,61.29635356522565,47.0,sanitas,nan,2024,4,12,adulto
+4344,2023-08-16,aspirina,100.0,subcutanea,neumonia,72.20819426004452,61.0,sanitas,med-6564,2023,2,8,adulto
+8901,2023-10-30,amoxicilina,1000.0,intravenosa,consulta general,63.29555129244805,58.0,sanitas,med-1896,2023,0,10,adulto
+3602,2023-05-21,ibuprofeno,500.0,oral,infeccion respiratoria aguda,89.95969148481626,45.0,nueva eps,med-4404,2023,6,5,adulto
+8099,2024-08-02,amoxicilina,500.0,oral,nan,56.33509875953436,53.0,nueva eps,med-4825,2024,4,8,adulto
+1165,2024-08-18,enalapril,100.0,oral,hipertension,78.16682462049624,76.0,sura,med-3540,2024,6,8,adulto mayor
+5523,2025-02-22,metformina 500,250.0,oral,gastritis cronica,71.85057439184828,83.0,compensar,med-3356,2025,5,2,adulto mayor
+5867,2025-05-16,aspirina,250.0,subcutanea,neumonia,78.21132630474672,27.0,nueva eps,med-3944,2025,4,5,adulto
+9857,2023-10-03,aspirina,250.0,oral,infeccion respiratoria aguda,34.35236413809696,74.0,sanitas,med-0954,2023,1,10,adulto mayor
+5188,2025-07-15,ibuprofeno,200.0,subcutanea,hipertension,66.24236327204495,50.0,compensar,med-0577,2025,1,7,adulto
+2096,2024-02-07,aspirina,100.0,intravenosa,neumonia,48.428613795469495,50.27991886409736,sura,med-2297,2024,2,2,adulto
+2532,2024-01-15,metformina 500,1000.0,intravenosa,diabetes tipo 2,81.92858675309074,67.0,sanitas,med-1095,2024,0,1,adulto mayor
+7579,2024-11-09,metformina 500,50000.0,subcutanea,gastritis cronica,47.96341667181167,53.0,sura,med-0243,2024,5,11,adulto
+6277,2024-12-08,enalapril,500.0,oral,hipertension,49.108606838933085,37.0,sanitas,med-3960,2024,6,12,adulto
+8922,2026-01-03,enalapril,500.0,oral,nan,79.63623783273198,28.0,sanitas,med-1665,2026,5,1,adulto
+2609,2024-06-05,aspirina,850.0,oral,diabetes tipo 2,61.8685661953313,76.0,sanitas,med-3573,2024,2,6,adulto mayor
+7557,2023-09-22,enalapril,500.0,subcutanea,neumonia,55.28230874978068,62.0,sura,med-0391,2023,4,9,adulto
+5925,2025-11-01,metformina,850.0,subcutanea,diabetes tipo 2,64.13343506351788,53.0,sura,med-4889,2025,5,11,adulto
+5570,2023-08-01,asa,100.0,oral,diabetes tipo 2,61.81183422367356,74.0,nueva eps,med-0958,2023,1,8,adulto mayor
+9509,2023-05-27,ibuprofeno,400.0,oral,hipertension,83.18795104988688,62.0,nueva eps,med-0251,2023,5,5,adulto
+7419,2025-08-25,ibuprofeno,400.0,subcutanea,nan,86.61804139598368,50.27991886409736,sanitas,med-9239,2025,0,8,adulto
+6093,2024-05-29,ibuprofeno,200.0,subcutanea,hipertension,72.03205495583467,73.0,nueva eps,med-0627,2024,2,5,adulto mayor
+3338,2024-12-12,ibuprofeno,1000.0,subcutanea,neumonia,77.53559524945193,33.0,compensar,med-8332,2024,3,12,adulto
+2067,2025-11-14,ibuprofeno,850.0,subcutanea,hipertension,69.57362151396794,42.0,sanitas,med-7995,2025,4,11,adulto
+6135,2024-09-10,ibuprofeno,200.0,subcutanea,consulta general,66.03393505347832,73.0,nueva eps,med-4973,2024,1,9,adulto mayor
+6442,2025-11-13,enalapril,250.0,intravenosa,nan,77.46042127864457,56.0,sura,med-7060,2025,3,11,adulto
+2598,2024-01-16,amoxicilina,200.0,oral,hipertension,61.50677494785759,33.0,compensar,med-4935,2024,1,1,adulto
+5606,2024-12-10,enalapril,200.0,oral,nan,84.47412772327897,26.0,sura,med-3286,2024,1,12,adulto
+3322,2025-01-14,enalapril,400.0,subcutanea,gastritis cronica,59.66810483290963,53.0,compensar,med-6384,2025,1,1,adulto
+8716,2024-08-31,asa,50000.0,intravenosa,hipertension,56.68074801647747,54.0,sura,med-0975,2024,5,8,adulto
+9897,2025-12-25,metformina 500,50000.0,subcutanea,neumonia,76.1324146134601,35.0,nueva eps,med-1614,2025,3,12,adulto
+8457,2023-06-07,amoxicilina,850.0,oral,consulta general,70.52462956188894,68.0,compensar,med-7171,2023,2,6,adulto mayor
+7918,2023-09-26,ibuprofeno,1000.0,intravenosa,diabetes tipo 2,52.88395528108044,21.0,sura,med-8871,2023,1,9,adulto
+4161,2024-07-04,metformina,400.0,intravenosa,diabetes tipo 2,52.95003241778948,57.0,sura,med-1515,2024,3,7,adulto
+1628,2025-05-28,enalapril,250.0,intravenosa,diabetes tipo 2,65.45044431071197,34.0,sanitas,med-0285,2025,2,5,adulto
+5867,2023-11-13,metformina,200.0,oral,diabetes tipo 2,60.0674955495834,78.0,compensar,med-0878,2023,0,11,adulto mayor
+1541,2024-03-23,ibuprofeno,500.0,oral,infeccion respiratoria aguda,67.74272504171394,71.0,sanitas,med-4158,2024,5,3,adulto mayor
+9521,2023-09-13,ibuprofeno,1000.0,subcutanea,nan,60.69551692075437,27.0,sura,nan,2023,2,9,adulto
+9389,2024-10-02,metformina,200.0,intravenosa,gastritis cronica,59.71483227964082,48.0,compensar,med-5122,2024,2,10,adulto
+9101,2024-06-11,aspirina,1000.0,oral,nan,55.97550976207856,40.0,sanitas,med-3139,2024,1,6,adulto
+7242,2024-08-16,amoxicilina,200.0,oral,diabetes tipo 2,68.06637723319669,83.0,sanitas,med-6787,2024,4,8,adulto mayor
+6315,2025-08-01,amoxicilina,1000.0,oral,neumonia,61.85109354514425,42.0,sanitas,med-1238,2025,4,8,adulto
+2562,2025-06-12,amoxicilina,1000.0,oral,nan,61.19686831700755,50.27991886409736,sura,med-2087,2025,3,6,adulto
+3648,2024-02-25,metformina,500.0,oral,diabetes tipo 2,82.72438214121033,48.0,nueva eps,med-3000,2024,6,2,adulto
+1083,2025-03-06,amoxicilina,1000.0,subcutanea,gastritis cronica,66.75653861209655,68.0,sura,med-3549,2025,3,3,adulto mayor
+6727,2023-05-09,amoxicilina,500.0,subcutanea,hipertension,86.46591919754837,18.0,sura,med-6736,2023,1,5,adulto
+9173,2026-01-11,enalapril,850.0,subcutanea,hipertension,67.87238572478931,25.0,sanitas,med-5805,2026,6,1,adulto
+2331,2023-12-08,amoxicilina,400.0,intravenosa,infeccion respiratoria aguda,66.24236327204495,34.0,sura,nan,2023,4,12,adulto
+1324,2023-10-18,ibuprofeno,250.0,oral,infeccion respiratoria aguda,78.48414411163321,69.0,sura,med-3441,2023,2,10,adulto mayor
+2076,2026-04-02,enalapril,850.0,oral,nan,41.48953503944967,25.0,sura,med-8980,2026,3,4,adulto
+7742,2026-01-23,ibuprofeno,500.0,oral,consulta general,73.55389887498562,59.0,nueva eps,med-6000,2026,4,1,adulto
+1039,2023-09-20,metformina,250.0,intravenosa,gastritis cronica,87.28481797961118,20.0,nueva eps,med-5928,2023,2,9,adulto
+9032,2025-08-02,metformina,200.0,oral,infeccion respiratoria aguda,71.7204973280795,30.0,sanitas,med-5340,2025,5,8,adulto
+6357,2023-12-23,metformina,200.0,subcutanea,nan,56.87318434306785,29.0,nueva eps,nan,2023,5,12,adulto
+9458,2025-04-27,metformina,400.0,oral,consulta general,79.55436047514948,39.0,sura,nan,2025,6,4,adulto
+2844,2024-03-30,aspirina,100.0,oral,nan,71.83678212912494,45.0,sanitas,nan,2024,5,3,adulto
+5272,2023-06-29,amoxicilina,250.0,subcutanea,hipertension,44.37551996107645,62.0,nueva eps,med-1865,2023,3,6,adulto
+9992,2023-08-19,asa,250.0,oral,diabetes tipo 2,48.14720061489188,63.0,sura,med-4616,2023,5,8,adulto
+5214,2025-08-21,metformina,100.0,oral,diabetes tipo 2,81.15946604021073,33.0,nueva eps,med-3695,2025,3,8,adulto
+7736,2023-02-11,amoxicilina,400.0,oral,hipertension,76.56280166383813,65.0,compensar,med-6252,2023,5,2,adulto mayor
+2156,2025-08-11,asa,500.0,subcutanea,infeccion respiratoria aguda,55.52735579728045,31.0,sanitas,med-1391,2025,0,8,adulto
+6486,2025-08-25,ibuprofeno,500.0,subcutanea,nan,68.81413306903308,22.0,sanitas,med-4544,2025,0,8,adulto
+4044,2026-04-10,metformina,400.0,intravenosa,nan,69.73776537353658,28.0,sanitas,med-5384,2026,4,4,adulto
+9963,2025-10-17,metformina 500,500.0,subcutanea,diabetes tipo 2,69.32613774227956,72.0,sura,med-8840,2025,4,10,adulto mayor
+1937,2023-12-19,metformina,400.0,oral,diabetes tipo 2,82.27796676747809,65.0,sura,med-8216,2023,1,12,adulto mayor
+6462,2025-06-21,ibuprofeno,1000.0,subcutanea,hipertension,77.78533592416245,38.0,compensar,nan,2025,5,6,adulto
+3785,2025-05-23,metformina 500,850.0,oral,consulta general,49.85732917771564,51.0,nueva eps,med-4827,2025,4,5,adulto
+3154,2023-09-07,ibuprofeno,1000.0,subcutanea,hipertension,57.98616172226112,70.0,compensar,med-1663,2023,3,9,adulto mayor
+2051,2023-12-15,asa,850.0,subcutanea,gastritis cronica,65.27794706391278,83.0,sura,med-2269,2023,4,12,adulto mayor
+2215,2024-12-02,ibuprofeno,100.0,oral,nan,84.7477035853548,70.0,sura,med-6406,2024,0,12,adulto mayor
+8885,2025-11-08,asa,100.0,oral,diabetes tipo 2,63.41672258744195,35.0,compensar,med-0932,2025,5,11,adulto
+3164,2023-07-30,enalapril,1000.0,subcutanea,infeccion respiratoria aguda,78.10385206047633,67.0,nueva eps,med-6117,2023,6,7,adulto mayor
+4711,2024-04-25,metformina,100.0,intravenosa,hipertension,79.48000696529502,37.0,sanitas,med-0671,2024,3,4,adulto
+8871,2026-02-03,asa,100.0,intravenosa,consulta general,61.19736093362981,70.0,sanitas,med-8668,2026,1,2,adulto mayor
+7916,2024-12-21,ibuprofeno,400.0,subcutanea,nan,88.67690919245192,50.27991886409736,sanitas,med-8433,2024,5,12,adulto
+6008,2023-07-25,metformina,500.0,intravenosa,diabetes tipo 2,55.43003375104361,23.0,sanitas,med-1843,2023,1,7,adulto
+1936,2026-01-13,ibuprofeno,500.0,oral,gastritis cronica,53.76814893423796,68.0,compensar,med-5529,2026,1,1,adulto mayor
+7506,2023-09-01,ibuprofeno,400.0,oral,diabetes tipo 2,60.050160206631496,23.0,sanitas,med-1340,2023,4,9,adulto
+7573,2023-12-20,amoxicilina,500.0,subcutanea,infeccion respiratoria aguda,65.82952701193918,76.0,sanitas,med-7732,2023,2,12,adulto mayor
+2988,2024-09-19,enalapril,1000.0,subcutanea,neumonia,55.78951670308437,50.27991886409736,compensar,med-5905,2024,3,9,adulto
+9967,2024-02-29,enalapril,250.0,intravenosa,hipertension,75.27549006645334,80.0,sanitas,nan,2024,3,2,adulto mayor
+3918,2026-04-25,amoxicilina,200.0,subcutanea,infeccion respiratoria aguda,75.02847886264985,49.0,compensar,med-3262,2026,5,4,adulto
+4137,2023-05-22,ibuprofeno,400.0,intravenosa,consulta general,84.9381795498474,18.0,sanitas,med-4708,2023,0,5,adulto
+6812,2024-11-26,asa,500.0,intravenosa,consulta general,60.35340812341958,23.0,nueva eps,med-0751,2024,1,11,adulto
+6556,2023-04-27,aspirina,250.0,subcutanea,nan,77.70252370919228,41.0,sura,nan,2023,3,4,adulto
+8855,2025-02-04,metformina,200.0,intravenosa,nan,71.41553220472875,79.0,sanitas,med-0941,2025,1,2,adulto mayor
+4115,2024-08-19,metformina,400.0,intravenosa,diabetes tipo 2,58.44410684318156,44.0,sura,med-5697,2024,0,8,adulto
+5614,2025-09-02,enalapril,500.0,subcutanea,neumonia,83.32351517057492,80.0,compensar,med-7225,2025,1,9,adulto mayor
+5589,2024-09-08,aspirina,850.0,intravenosa,nan,76.82518954350839,80.0,sanitas,nan,2024,6,9,adulto mayor
+6982,2024-11-26,amoxicilina,850.0,intravenosa,nan,65.79511780832271,26.0,sura,med-2894,2024,1,11,adulto
+6511,2024-06-23,metformina,200.0,subcutanea,hipertension,66.24236327204495,21.0,sura,med-8161,2024,6,6,adulto
+6099,2025-03-11,ibuprofeno,250.0,oral,diabetes tipo 2,60.35694305793957,30.0,sanitas,med-6255,2025,1,3,adulto
+8323,2023-11-16,asa,850.0,intravenosa,hipertension,39.96059615122645,36.0,sanitas,med-0001,2023,3,11,adulto
+7229,2025-07-23,amoxicilina,200.0,intravenosa,infeccion respiratoria aguda,62.701759527109694,31.0,sanitas,med-2255,2025,2,7,adulto
+4948,2025-07-05,enalapril,850.0,intravenosa,nan,73.99015467381669,22.0,sanitas,med-1623,2025,5,7,adulto
+9936,2024-02-03,metformina,850.0,intravenosa,gastritis cronica,70.28680577808834,53.0,nueva eps,med-8243,2024,5,2,adulto
+9396,2026-01-25,metformina,850.0,intravenosa,hipertension,81.37079659249444,21.0,sura,med-6669,2026,6,1,adulto
+8294,2024-01-13,ibuprofeno,500.0,intravenosa,hipertension,81.07544100231813,20.0,sura,med-5500,2024,5,1,adulto
+3689,2025-02-24,aspirina,1000.0,oral,hipertension,65.10962039813674,38.0,sura,med-0823,2025,0,2,adulto
+8784,2024-10-26,metformina,100.0,intravenosa,nan,60.657811989104566,28.0,sanitas,med-7232,2024,5,10,adulto
+3426,2025-10-25,asa,100.0,oral,neumonia,76.70737953929398,61.0,sura,med-8145,2025,5,10,adulto
+4669,2023-05-25,amoxicilina,850.0,subcutanea,consulta general,81.50274616072339,29.0,sura,nan,2023,3,5,adulto
+1804,2024-08-06,asa,200.0,subcutanea,hipertension,65.62518116298803,39.0,sura,med-6679,2024,1,8,adulto
+2996,2023-10-22,enalapril,100.0,subcutanea,diabetes tipo 2,63.430361409137525,81.0,sanitas,nan,2023,6,10,adulto mayor
+6135,2024-02-07,ibuprofeno,100.0,oral,hipertension,77.83046322378527,22.0,compensar,med-7289,2024,2,2,adulto
+7957,2026-04-19,metformina,1000.0,oral,hipertension,70.1949927827673,50.27991886409736,compensar,med-9114,2026,6,4,adulto
+5523,2024-01-29,enalapril,400.0,intravenosa,hipertension,78.82546595579508,57.0,nueva eps,med-8810,2024,0,1,adulto
+7895,2024-02-01,metformina,100.0,intravenosa,neumonia,90.72865841247074,57.0,sanitas,med-6652,2024,3,2,adulto
+7045,2024-05-11,enalapril,100.0,oral,nan,52.90948593324282,33.0,nueva eps,med-2151,2024,5,5,adulto
+1077,2025-11-18,metformina,250.0,oral,nan,74.30649260145567,27.0,compensar,med-1814,2025,1,11,adulto
+9219,2025-03-20,metformina,250.0,oral,diabetes tipo 2,80.45578435622082,26.0,sura,med-8697,2025,3,3,adulto
+4261,2024-01-25,asa,100.0,intravenosa,hipertension,66.05557874422848,49.0,sura,med-3796,2024,3,1,adulto
+3164,2023-07-30,enalapril,1000.0,subcutanea,infeccion respiratoria aguda,78.10385206047633,67.0,nueva eps,med-6117,2023,6,7,adulto mayor
+7983,2024-01-23,aspirina,400.0,intravenosa,consulta general,67.26009979219072,50.27991886409736,sura,med-7990,2024,1,1,adulto
+9550,2025-10-08,asa,200.0,subcutanea,diabetes tipo 2,74.9822221752639,26.0,compensar,nan,2025,2,10,adulto
+9378,2025-07-04,enalapril,1000.0,oral,gastritis cronica,63.38330006733575,70.0,compensar,med-0161,2025,4,7,adulto mayor
+8299,2025-10-20,ibuprofeno,1000.0,oral,consulta general,75.41243657081861,60.0,sura,med-3920,2025,0,10,adulto
+1871,2025-10-09,enalapril,200.0,oral,diabetes tipo 2,58.11430596534153,26.0,nueva eps,med-6417,2025,3,10,adulto
+8200,2025-05-28,asa,250.0,intravenosa,diabetes tipo 2,75.28554117735568,56.0,sura,med-9216,2025,2,5,adulto
+9722,2024-03-29,metformina,850.0,subcutanea,nan,80.74849609245746,81.0,sanitas,med-4701,2024,4,3,adulto mayor
+5331,2024-07-01,aspirina,250.0,intravenosa,gastritis cronica,60.56880582911907,50.27991886409736,sanitas,med-1648,2024,0,7,adulto
+1695,2025-06-16,metformina 500,1000.0,oral,diabetes tipo 2,62.94644296384783,50.27991886409736,sanitas,med-6989,2025,0,6,adulto
+9963,2025-10-17,metformina 500,500.0,subcutanea,diabetes tipo 2,69.32613774227956,72.0,sura,med-8840,2025,4,10,adulto mayor
